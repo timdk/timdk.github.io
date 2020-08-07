@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{Cjtl:function(e,n,t){e.exports=t.p+"static/hell-yeah-dog-d69d520e56de0eff2fed49c28dc5866a.jpg"},RXBc:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),o=t.n(a),c=t("Bl7J"),l=(t("WurN"),t("Cjtl")),s=t.n(l);n.default=function(){return o.a.createElement(c.a,null,o.a.createElement("img",{className:"responsive",src:s.a,alt:"cool dog by the pool wearing swimming goggles"}))}},WurN:function(e,n,t){}}]);
+//# sourceMappingURL=component---src-pages-index-js-e0aea11d14e99077db2b.js.map
